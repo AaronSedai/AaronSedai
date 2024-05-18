@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AaronSedai but you can just call me Aaron (<i>or <b>Azza</b> if you're into nicknames</i>).
-- 👀 I’m interested in learning code, networking with other coders and finishing this CIS degree.
+- 👀 I’m interested in learning code, networking with other coders and finding a job now that I've finished my CIS degree.
 - ❤️ I also quite enjoy ☕ 🍕 📚 🍺 🎵 and a range of other things.
 - 🌱 I’m currently learning <b>Python</b>, <b>HTML</b>, <b>C++</b>
 - 💞️ I’m looking to collaborate on anything I can be useful for.
